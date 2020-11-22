@@ -8,7 +8,7 @@ class OnlineInterface:
         host = "files.srcf.net"
         port = 22
         username = "dv323"
-        password = "kikirik567"
+        password = "*******"
 
         command = "ls"
 
